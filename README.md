@@ -23,17 +23,18 @@ Ortam Yönetimi: Dotenv (.env configuration)
 Sunucu: Uvicorn & Docker
 
 Lokalde Çalıştırma:
-''' bash
+``` bash
 uvicorn app.main:app --reload
 '''
+```
 
 API Dokümantasyonu: http://127.0.0.1:8000/docs
 
 Docker ile Çalıştırma:
-''' bash
+``` bash
 docker build -t secure-login-api .
 docker run -d --name api-container -p 8000:8000 secure-login-api
-'''
+```
 
 🧠 Bu Projede Neler Öğrendim?
 Bu projeyi geliştirirken aşağıdaki kritik backend kavramlarını deneyimledim:
