@@ -108,7 +108,7 @@ from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 
-# Kendi dosyalarımızdan importlar
+# Kendi dosyalarımızdan importlar.
 from .models import UserRegister, UserLogin
 from .auth import hash_password, verify_password, create_token, verify_token
 from .database import get_db, UserTable
