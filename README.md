@@ -53,6 +53,7 @@ FastAPI Uygulaması:
 
 <img width="1591" height="581" alt="image" src="https://github.com/user-attachments/assets/d6de4759-8613-4d02-818e-5416d9f73af5" />
 
+<br><br>
 
 Frontend uygulaması:
 <img width="1901" height="963" alt="image" src="https://github.com/user-attachments/assets/ae92a6ba-996b-4260-8ffc-4aa05fb800ca" />
