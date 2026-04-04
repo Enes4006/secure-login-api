@@ -25,7 +25,6 @@ Sunucu: Uvicorn & Docker
 Lokalde Çalıştırma:
 ``` bash
 uvicorn app.main:app --reload
-'''
 ```
 
 API Dokümantasyonu: http://127.0.0.1:8000/docs
