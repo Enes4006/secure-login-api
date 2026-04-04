@@ -1,0 +1,23 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Veritabanı (Kalıcı verilerini gizli tutar)
+sql_app.db
+*.db
+*.sqlite3
+
+# Loglar (Kendi bilgisayarındaki hata kayıtlarını yükleme)
+*.log
+app.log
+
+# Gizli Ayarlar (EN KRİTİK SATIR)
+.env
+
+# VS Code Ayarları
+.vscode/
